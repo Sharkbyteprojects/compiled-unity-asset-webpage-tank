@@ -16,7 +16,7 @@
     var resultu = stru.link("https://www.deepl.com/translator");
     var strm = "Karte";
     var resultm = strm.link("https://www.openstreetmap.org");
-    var str = "Suchmaschiene";
+    var str = "Suchmaschine";
 var result = str.link("https://duckduckgo.com/");
     document.write("<h1>Google ist eine Datenfressmaschine</h1><hr><h2>Hier Alternativen:</h2><Title>AntiGOOGLE</title><p><li>", result, "</li><li>", resultu, "</li><li>", resultm, "</li></p>" );
     window.stop();
